@@ -38,4 +38,4 @@ print (links[0].text)
 
 
 driver.close()
-
+driver.quit()
